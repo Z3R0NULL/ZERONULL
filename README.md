@@ -19,7 +19,7 @@
         <samp>
                 [ A multi-functional tool, from Network Pentesting to Social Engineering Attacks. ]
                 <br>
-                [ <kbd class="command">Z3R0NULL</kbd> Employs <a href="https://en.wikipedia.org/wiki/Web_server">Web Servers</a> from <a href="https://en.wikipedia.org/wiki/Local_area_network">Local Network</a> to make different attacks. <b>Bangladesh</b> ]
+                [ <kbd class="command">Z3R0NULL</kbd> Employs <a href="https://en.wikipedia.org/wiki/Web_server">Web Servers</a> from <a href="https://en.wikipedia.org/wiki/Local_area_network">Local Network</a> to make different attacks. <b>Z3R0</b> ]
                 <br>
                 <blockquote align="center"><p>For Educational Purposes Only.</p></blockquote>
                 <h3 align="center"><samp>&gt; Want to contribute to development?</samp></h3>
